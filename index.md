@@ -1,7 +1,7 @@
 <frontmatter>
   title: Home Page
   layout: default.md
-  pageNav: 5
+  pageNav: 4
   pageNavTitle: "Index Page"
 </frontmatter>
 
